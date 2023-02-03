@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou o Daniel! 🌱</h1>
+<h1 align="left">Olá, sou o Daniel! 🌱</h1>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=d-sabino&show_icons=true&count_private=true&hide_border=true&title_color=currentColor&icon_color=currentColor&text_color=currentColor&bg_color=00000000" alt="Daniel Sabino github stats" /> 
