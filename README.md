@@ -1,12 +1,17 @@
 <h1 align="left">Olá, eu sou o Daniel! 🌱</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-sabino&langs_count=8&hide=ruby,shell&layout=compact&hide_border=true&bg_color=00000000&text_color=currentColor)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Daniel's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=d-sabino&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&text_color=currentColor)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=d-sabino&show_icons=true&count_private=true&hide_border=true&title_color=currentColor&icon_color=ff91a4&text_color=currentColor&bg_color=00000000" alt="Daniel Sabino github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-sabino&layout=compact&hide_border=true&title_color=currentColor&text_color=currentColor&bg_color=00000000" />
+</div>
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-sabino&langs_count=8&hide=ruby,shell&layout=compact&hide_border=true&bg_color=00000000&text_color=currentColor)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Daniel's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=d-sabino&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&text_color=currentColor)]
+
+
+
 <h3 align="left">Aprendendo:</h3>
 <p align="left">
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
