@@ -9,7 +9,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-sabino&layout=compact&hide_border=true&title_color=ABBEDB&text_color=ABBEDB&bg_color=00000000" />
 </div>
 
-
+<div>
+  <div>
+  <div align="right"> <!-- DIV, GIF RAPOSA -->
+    <img align="right" height = 300px src="https://user-images.githubusercontent.com/40477679/217058740-d31ccc21-b7cd-4f4e-ad3a-6e068b262fc7.gif" />
+    <img align="right" width="80%" src ="https://readme-typing-svg.herokuapp.com/?color=ABBEDB&size=10&align=right&lines=Building+a+beautiful+burrow+🦊🌱"/>
+  </div>  
+  
 <h3 align="left">Linguagens que tenho experiência:</h3>
 <p align="left">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -39,7 +45,9 @@
     <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_ blank "/>
   </a>
 </p>
+</div>
 
+</div>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=d-sabino&bg_color=00000000&color=ABBEDB&line=ABBEDB&point=4C6B9E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
