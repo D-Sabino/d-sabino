@@ -10,12 +10,11 @@
 </div>
 
 <div>
-  <div>
-  <div align="right"> <!-- DIV, GIF RAPOSA -->
+  <div width="50%" align="right"> <!-- DIV, GIF RAPOSA -->
     <img align="right" height = 300px src="https://user-images.githubusercontent.com/40477679/217058740-d31ccc21-b7cd-4f4e-ad3a-6e068b262fc7.gif" />
-    <img align="right" width="80%" src ="https://readme-typing-svg.herokuapp.com/?color=ABBEDB&size=10&align=right&lines=Building+a+beautiful+burrow+🦊🌱"/>
   </div>  
   
+  <div width="50%" align="left">
 <h3 align="left">Linguagens que tenho experiência:</h3>
 <p align="left">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
