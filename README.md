@@ -1,8 +1,10 @@
-<h1 align="left">Olá, sou o Daniel! 🌱</h1>
+<!--<h1 align="left">Um pouco sobre mim!🌱🦊</h1>-->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4D454C&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Daniel+Sabino!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=d-sabino&show_icons=true&count_private=true&hide_border=true&title_color=currentColor&icon_color=currentColor&text_color=currentColor&bg_color=00000000" alt="Daniel Sabino github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-sabino&layout=compact&hide_border=true&title_color=currentColor&text_color=currentColor&bg_color=00000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=d-sabino&show_icons=true&count_private=true&hide_border=true&title_color=4D454C&icon_color=4D454C&text_color=4D454C&bg_color=00000000" alt="Daniel Sabino github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-sabino&layout=compact&hide_border=true&title_color=4D454C&text_color=4D454C&bg_color=00000000" />
 </div>
 
 <!--
