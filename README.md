@@ -18,31 +18,32 @@
   <div width="50%" align="left">
 <h3 align="left">Linguagens que tenho experiência:</h3>
 <p align="left">
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="Visual Basic" src="https://img.shields.io/badge/Visual%20Basic-5C2D91.svg?style=for-the-badge&logo=visual-basic&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117"/>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117&textColor=0D1117"/>
+  <img alt="Visual Basic" src="https://img.shields.io/badge/Visual%20Basic-0D1117?style=for-the-badge&logo=visual-basic&labelColor=0D1117&textColor=0D1117"/>
 </p>
 
 <h3 align="left">Databases:</h3>
 <p align="left">
-  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&labelColor=0D1117&textColor=0D1117"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117"/>
 </p>
 
 <h3 align="left">Ferramentas de Design:</h3>
 <p align="left">
-  <img alt="AI" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
-  <img alt="Adobe PS" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
+  <img alt="AI" src="https://img.shields.io/badge/adobe%20illustrator-0D1117?style=for-the-badge&logo=adobe-illustrator&labelColor=0D1117&textColor=0D1117"/>
+  <img alt="Adobe PS" src="https://img.shields.io/badge/adobe%20photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117&textColor=0D1117"/>
+  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-0D1117?style=for-the-badge&logo=Adobe%20XD&labelColor=0D1117&textColor=0D1117"/>
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&textColor=0D1117"/>
 </p>
 
 <h3 align="left">Mais sobre mim:</h3>
-  <a href="https://www.behance.net/apenas_img">
-    <img src = "https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
+  <a href="https://www.behance.net/d-sabino">
+    <img src = "https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&labelColor=0D1117&textColor=0D1117" />
   </a>
 
   <a href="https://www.linkedin.com/in/daniel-sabino/">
-    <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_ blank "/>
+    <img src = "https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117&textColor=0D1117" target = "_ blank "/>
   </a>
 </p>
 </div>
