@@ -1,6 +1,7 @@
 <!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 -->
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ABBEDB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Daniel+Sabino!;Bacharel+em+Ciência+da+Computação.;Seja+bem-vindo!;Building+a+beautiful+burrow+🦊🌱)](https://git.io/typing-svg)
 
