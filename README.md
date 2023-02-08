@@ -6,8 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ABBEDB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Daniel+Sabino!;Bacharel+em+Ciência+da+Computação.;Seja+bem-vindo!;Building+a+beautiful+burrow+🦊🌱)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=d-sabino&show_icons=true&count_private=true&hide_border=true&title_color=ABBEDB&icon_color=ABBEDB&text_color=ABBEDB&bg_color=00000000" alt="Github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-sabino&layout=compact&hide_border=true&title_color=ABBEDB&text_color=ABBEDB&bg_color=00000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=d-sabino&show_icons=true&count_private=true&hide_border=true&title_color=ABBEDB&icon_color=ABBEDB&text_color=ABBEDB&bg_color=0d1117" alt="Daniel Sabino github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-sabino&layout=compact&hide_border=true&title_color=ABBEDB&ABBEDB=00bfbf&bg_color=0d1117" />
 </div>
 
 <div>
