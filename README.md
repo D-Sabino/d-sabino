@@ -50,8 +50,9 @@
 
 </div>
 
-
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=d-sabino&bg_color=00000000&color=ABBEDB&line=ABBEDB&point=4C6B9E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 <div align="center">
   <br>
